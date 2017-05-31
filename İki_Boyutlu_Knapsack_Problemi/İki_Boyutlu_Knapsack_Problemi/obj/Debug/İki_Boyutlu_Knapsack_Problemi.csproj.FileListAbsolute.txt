@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\bin\Debug\İki_Boyutlu_Knapsack_Problemi.exe.config
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\bin\Debug\İki_Boyutlu_Knapsack_Problemi.exe
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\bin\Debug\İki_Boyutlu_Knapsack_Problemi.pdb
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\obj\Debug\İki_Boyutlu_Knapsack_Problemi.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\obj\Debug\İki_Boyutlu_Knapsack_Problemi.exe
+C:\Users\Acer\Desktop\İki_Boyutlu_Knapsack_Problemi\İki_Boyutlu_Knapsack_Problemi\obj\Debug\İki_Boyutlu_Knapsack_Problemi.pdb
